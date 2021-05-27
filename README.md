@@ -1,5 +1,5 @@
 # IRTM
-IRTM Project
+IRTM Project: Recipe Developing Helper
 
 Scraper can be found in the irtm folder
 
